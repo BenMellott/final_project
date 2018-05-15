@@ -1,0 +1,41 @@
+#content{
+    margin: 20px;
+}
+.sectiontitle{
+    text-align:center;
+    margin:50px;
+}
+.sectionlink{
+    padding:5px;
+    background-color:lightgray;
+    color:black;
+    text-decoration:none;
+}
+.sectionlink:hover{
+    background-color:darkgray;
+    color:white;
+    text-decoration:none;
+}
+.sectionlink:active{
+    background-color:black;
+    color:white;
+    text-decoration:none;
+}
+.specialtitle{
+    padding:5px;
+    background-color:lightgray;
+    color:black;
+    text-decoration:none;
+}
+.textlink{
+    color:blue;
+    text-decoration:none;
+}
+.textlink:hover{
+    color:black;
+    text-decoration:underline;
+}
+.textlink:active{
+    color:black;
+    text-decoration:none;
+}
