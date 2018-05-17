@@ -1,5 +1,11 @@
 #content{
-    margin: 20px;
+    background:rgba(0,127,127, 0.25);
+    height:100%;
+    margin:0px 300px;
+    padding:50px 100px;
+}
+#navheader{
+    padding:0px 300px;
 }
 .sectiontitle{
     text-align:center;
@@ -7,33 +13,29 @@
 }
 .sectionlink{
     padding:5px;
-    background-color:lightgray;
     color:black;
     text-decoration:none;
 }
 .sectionlink:hover{
-    background-color:darkgray;
-    color:white;
+    color:gray;
     text-decoration:none;
 }
 .sectionlink:active{
-    background-color:black;
     color:white;
     text-decoration:none;
 }
 .specialtitle{
     padding:5px;
-    background-color:lightgray;
     color:black;
     text-decoration:none;
 }
 .textlink{
-    color:blue;
+    color:gray;
     text-decoration:none;
 }
 .textlink:hover{
-    color:black;
-    text-decoration:underline;
+    color:white;
+    text-decoration:none;
 }
 .textlink:active{
     color:black;
