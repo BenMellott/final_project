@@ -1,11 +1,7 @@
 #content{
     background:rgba(0,127,127, 0.25);
-    height:100%;
-    margin:0px 300px;
+    min-height:100%;
     padding:50px 100px;
-}
-#navheader{
-    padding:0px 300px;
 }
 .sectiontitle{
     text-align:center;
