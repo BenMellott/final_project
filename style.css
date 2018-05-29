@@ -1,7 +1,18 @@
+body{
+    background-image: url("backgroundpic.jpg");
+    background-size: cover;
+}
 #content{
-    background:rgba(0,127,127, 0.25);
+    background:rgb(0, 191, 191);
     min-height:100%;
     padding:50px 100px;
+}
+#profilediv{
+    text-align:center;
+}
+#profilepic{
+    max-width:50%;
+    margin: 0px auto;
 }
 .sectiontitle{
     text-align:center;
